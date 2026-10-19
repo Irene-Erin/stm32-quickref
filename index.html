@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#F5F6F8" />
+    <meta name="description" content="STM32 标准外设库函数与引脚速查，可安装、可离线。" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="STM32 速查" />
+    <title>STM32 速查</title>
+    <link rel="icon" type="image/svg+xml" href="./icons/icon.svg" />
+    <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+    <script>
+      // 首屏前定主题，避免先浅后深闪一下。策略与 store/prefsStore.ts 一致。
+      (function () {
+        var mode = 'system';
+        try {
+          var saved = localStorage.getItem('stm32qr.theme');
+          if (saved === 'light' || saved === 'dark' || saved === 'system') mode = saved;
+        } catch (error) {
+          mode = 'system';
+        }
+        var dark =
+          mode === 'dark' ||
+          (mode === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+        document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+        var meta = document.querySelector('meta[name="theme-color"]');
+        if (meta) meta.setAttribute('content', dark ? '#0E1116' : '#F5F6F8');
+      })();
+    </script>
+    <script type="module" crossorigin src="./assets/index-CLTbx6xi.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/react-bX7ZmSj8.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-CYGzoZZd.css">
+  <link rel="manifest" href="./manifest.webmanifest"></head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

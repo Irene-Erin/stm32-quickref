@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="STM32 速查">
+  <rect width="512" height="512" rx="112" fill="#2F6BF2" />
+  <g fill="none" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="168" y="168" width="176" height="176" rx="24" />
+    <path d="M216 168v-56M296 168v-56M216 344v56M296 344v56M168 216h-56M168 296h-56M344 216h56M344 296h56" />
+  </g>
+  <circle cx="256" cy="256" r="34" fill="#FFFFFF" />
+</svg>
