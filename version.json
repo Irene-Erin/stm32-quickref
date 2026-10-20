@@ -1,18 +1,18 @@
 {
-  "version": "220905cf6735",
-  "generatedAt": "2026-10-20T06:48:04.609Z",
+  "version": "33276475ecb0",
+  "generatedAt": "2026-10-20T13:05:48.455Z",
   "count": 12,
-  "totalBytes": 949608,
+  "totalBytes": 1107707,
   "files": [
     {
-      "path": "assets/index-Bsfsb68K.js",
-      "sha256": "ba59fed874bf2076b743d1788f50f37641ba21a95ded6744e1ded79fb7cc26b1",
-      "size": 99111
+      "path": "assets/index-D1pyACaA.css",
+      "sha256": "fb788e7628260e0c1c07d4b38c580be7cc990d34f6338a987f30eaf826c05bf4",
+      "size": 27836
     },
     {
-      "path": "assets/index-QI-thJsp.css",
-      "sha256": "817f68f0efce7dcab80564bdb0e05d8abf28c1bf5789872ef36f7bc75da8e43f",
-      "size": 27125
+      "path": "assets/index-DQkzGug1.js",
+      "sha256": "0c2b4aef0b03cab63f9e52dbe9b78857d2ede028febb5057dd0b56483dca372b",
+      "size": 99472
     },
     {
       "path": "assets/react-bX7ZmSj8.js",
@@ -26,8 +26,8 @@
     },
     {
       "path": "data/spl.functions.json",
-      "sha256": "7a147c1195bcfcf7d23b06d2124fc0b2c9fc6b8a755bd29da4d02247aa4d1243",
-      "size": 329252
+      "sha256": "80bf7246cb8af6946970b099b4f82f96850472832a67c9565deb839b9392c989",
+      "size": 486279
     },
     {
       "path": "icons/icon-192.png",
@@ -46,7 +46,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "6504ef72338f9952266143bfd2aee31e0c832067c47ef748cd46bd13e5f9eb0a",
+      "sha256": "7d9206f4de86aca41e1b84413e6ffc7b57370293fc1b7d2e2c1ea9f325578583",
       "size": 1843
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "e512255ccc92ec1a9e4996f1027afe65581300836dcd32385cd808dbf56fc80a",
+      "sha256": "3c9913d5fe1dfa81cdf583612db6a78e77e7a980f08ad49eae9af2c17133e3b5",
       "size": 1718
     },
     {
