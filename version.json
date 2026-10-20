@@ -1,18 +1,18 @@
 {
-  "version": "33276475ecb0",
-  "generatedAt": "2026-10-20T13:05:48.455Z",
+  "version": "79ad8bc10f5f",
+  "generatedAt": "2026-10-20T14:14:41.353Z",
   "count": 12,
-  "totalBytes": 1107707,
+  "totalBytes": 1105615,
   "files": [
     {
-      "path": "assets/index-D1pyACaA.css",
-      "sha256": "fb788e7628260e0c1c07d4b38c580be7cc990d34f6338a987f30eaf826c05bf4",
-      "size": 27836
+      "path": "assets/index-CKoGa7Y9.js",
+      "sha256": "d3083408122eb8d18a954fb3cc634f9861647a372dd519273dfb7aa900506b0e",
+      "size": 97611
     },
     {
-      "path": "assets/index-DQkzGug1.js",
-      "sha256": "0c2b4aef0b03cab63f9e52dbe9b78857d2ede028febb5057dd0b56483dca372b",
-      "size": 99472
+      "path": "assets/index-JKjKsjhr.css",
+      "sha256": "5b5ce38e2a555dbad2ed6d1f45fda22ea0d99efd00467869b6e9c5119aaebc6a",
+      "size": 27605
     },
     {
       "path": "assets/react-bX7ZmSj8.js",
@@ -46,7 +46,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "7d9206f4de86aca41e1b84413e6ffc7b57370293fc1b7d2e2c1ea9f325578583",
+      "sha256": "28d36fc7889010f3cf8d6c178de9a51ae8ca44c65140b422f3ada6e8fc0c2002",
       "size": 1843
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "3c9913d5fe1dfa81cdf583612db6a78e77e7a980f08ad49eae9af2c17133e3b5",
+      "sha256": "316773179969008b411997b8445e8d636677724db89711db47372470ca60c8c4",
       "size": 1718
     },
     {
